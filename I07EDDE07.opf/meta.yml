@@ -1,0 +1,21 @@
+id: I07EDDE07
+initial_creation_type: ebook
+source_metadata:
+  id: LEK-KAR-03-1
+  title: ༄༅། །སྐུ་གསུམ་ངོ་སྤྲོད་བཞུགས་སོ། །
+  author: མཛད་པ་པོ། ཀརྨ་པ་རང་བྱུང་རྡོ་རྗེ།
+  authors: &id001
+  - མཛད་པ་པོ། ཀརྨ་པ་རང་བྱུང་རྡོ་རྗེ།
+  sku: LEK-KAR-03-1
+  cover: _LEK-KAR-03-1.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །སྐུ་གསུམ་ངོ་སྤྲོད་བཞུགས་སོ། །
+  authors: *id001
+  sku: LEK-KAR-03-1
+  cover: _LEK-KAR-03-1.jpg
+layers:
+- Author
+- BookTitle
+- Citation
+- Commentary
